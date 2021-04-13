@@ -1,0 +1,16 @@
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.exe
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.deps.json
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.runtimeconfig.json
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.runtimeconfig.dev.json
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.dll
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\ref\30Days.dll
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\bin\Debug\net5.0\30Days.pdb
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.csprojAssemblyReference.cache
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.AssemblyInfoInputs.cache
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.AssemblyInfo.cs
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.csproj.CoreCompileInputs.cache
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.dll
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\ref\30Days.dll
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.pdb
+D:\Projects\DSA\Coding Interview\HackerRank\30Days\obj\Debug\net5.0\30Days.genruntimeconfig.cache
