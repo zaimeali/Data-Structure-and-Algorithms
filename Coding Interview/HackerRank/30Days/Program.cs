@@ -11,9 +11,9 @@ namespace HackerRank_30Days
             // Console.WriteLine("Hello World!");
 
 
-            int[] arr = { 1, 4, 3, 2 };
-            Day7 day7 = new Day7();
-            day7.prob_array(arr.Length, arr);
+            // int[] arr = { 1, 4, 3, 2 };
+            // Day7 day7 = new Day7();
+            // day7.prob_array(arr.Length, arr);
         }
     }
 }
